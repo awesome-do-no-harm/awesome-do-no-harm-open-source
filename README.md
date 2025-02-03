@@ -1,4 +1,4 @@
-# awesome-list [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome List on 'Do No Harm' for Open Source [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
 
 > A curated list of resources to help guide the implementation of "do no harm" principle in open source/science projects. 
 
